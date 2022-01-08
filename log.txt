@@ -1,0 +1,1099 @@
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:14 >Archiving of existing model begin
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:16 >Archive model path company_name/training/archive/project/Wafer_Fault_detection/model/model_2021-12-03_184514 will be created.
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:16 >Archiving of existing model completed.
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:18 >Start of Validation on files!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:18 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:18 >Removing bad raw directory
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:19 >company_name/training/data/project/Wafer_Fault_detection/bad_raw_data_files directory deleted successfully
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:19 >Removing good raw directory
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:20 >company_name/training/data/project/Wafer_Fault_detection/good_raw_data_files directory deleted successfully
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:20 >Good raw and bad raw directory creation begin..
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:29 >company_name/training/data/project/Wafer_Fault_detection/good_raw_data_files and company_name/training/data/project/Wafer_Fault_detection/bad_raw_data_files directory created successfully
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:31 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer12_20012.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:33 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_07012020_000000.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:35 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_07012020_223345.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:37 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_08012020_120000.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:40 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_10012020_131534.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:42 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_11012020_151432.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:44 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_12012020_111.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:46 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_12012020_111213.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:48 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:50 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:52 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15010_130532.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:54 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15012020_130532.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:56 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_18012020_121532.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:45:58 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_19012020_141432.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:00 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_20012020_135132.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:02 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_21012020_143634.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:04 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_22012020_173245.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:06 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_23012020_163456.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:08 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_24012020_150121.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:11 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_25012020_142112.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:13 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_fault_detection.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:15 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_text_130532.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:17 >Invalid File Name!! File moved to Bad Raw Folder :: Waferdefault_15010_130532.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:19 >Valid File name!! File moved to GoodRaw Folder :: wafer_07012020_041011.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:21 >Valid File name!! File moved to GoodRaw Folder :: wafer_13012020_090817.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:23 >Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_051629.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:25 >Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_134553.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:27 >Valid File name!! File moved to GoodRaw Folder :: wafer_17012020_125434.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:29 >Valid File name!! File moved to GoodRaw Folder :: wafer_20012020_090819.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:31 >Valid File name!! File moved to GoodRaw Folder :: wafer_20022020_090716.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:33 >Valid File name!! File moved to GoodRaw Folder :: wafer_21012020_080913.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:35 >Valid File name!! File moved to GoodRaw Folder :: wafer_22022020_041119.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:37 >Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_011008.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:39 >Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_041211.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:42 >Valid File name!! File moved to GoodRaw Folder :: wafer_27012020_080911.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:44 >Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_051011.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:46 >Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_090817.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:48 >Valid File name!! File moved to GoodRaw Folder :: wafer_28042020_031911.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:51 >Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_050617.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:54 >Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_060756.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:57 >Valid File name!! File moved to GoodRaw Folder :: wafer_31012020_090811.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:46:57 >Column Length Validation Started!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:47:06 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:47:11 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:47:26 >Column Length Validation Completed!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:47:26 >Missing Values Validation Started!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:47:31 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_07012020_041011.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:47:46 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_20012020_090819.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:48:00 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_22022020_041119.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:48:05 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_23012020_011008.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:48:19 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_28012020_051011.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:48:38 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_29012020_060756.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:48:43 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_31012020_090811.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:48:43 >Raw Data Validation Complete!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:48:43 >Starting Data Transforamtion!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:48:52 > wafer_13012020_090817.csv: File Transformed successfully!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:48:57 > wafer_16012020_051629.csv: File Transformed successfully!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:01 > wafer_20022020_090716.csv: File Transformed successfully!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:06 > wafer_21012020_080913.csv: File Transformed successfully!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:11 > wafer_23012020_041211.csv: File Transformed successfully!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:16 > wafer_27012020_080911.csv: File Transformed successfully!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:21 > wafer_28012020_090817.csv: File Transformed successfully!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:26 > wafer_28042020_031911.csv: File Transformed successfully!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:30 > wafer_29012020_050617.csv: File Transformed successfully!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:31 >DataTransformation Completed!!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:31 >Creating Training_Database and tables on the basis of given schema!!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:31 >Table creation Completed!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:31 >Insertion of Data into Table started!!!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:31 >Creating database and collection if not exist then create and insert record
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:31 >Droping existing collection if present in database training_system_log
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:31 >Starting loading of good files in database:training_database and collection: Good_Raw_Data
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:33 >9 files found in company_name/training/data/project/Wafer_Fault_detection/good_raw_data_files 
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:33 >Insertion of file wafer_13012020_090817.csv started...
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:35 >File: wafer_13012020_090817.csv loaded successfully
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:35 >Insertion of file wafer_16012020_051629.csv started...
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:37 >File: wafer_16012020_051629.csv loaded successfully
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:37 >Insertion of file wafer_20022020_090716.csv started...
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:38 >File: wafer_20022020_090716.csv loaded successfully
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:38 >Insertion of file wafer_21012020_080913.csv started...
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:39 >File: wafer_21012020_080913.csv loaded successfully
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:39 >Insertion of file wafer_23012020_041211.csv started...
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:41 >File: wafer_23012020_041211.csv loaded successfully
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:41 >Insertion of file wafer_27012020_080911.csv started...
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:42 >File: wafer_27012020_080911.csv loaded successfully
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:42 >Insertion of file wafer_28012020_090817.csv started...
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:43 >File: wafer_28012020_090817.csv loaded successfully
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:43 >Insertion of file wafer_28042020_031911.csv started...
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:44 >File: wafer_28042020_031911.csv loaded successfully
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:44 >Insertion of file wafer_29012020_050617.csv started...
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:46 >File: wafer_29012020_050617.csv loaded successfully
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:46 >Insertion in Table completed!!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:46 >Deleting Good Data Folder!!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:46 >Removing good raw directory
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:49 >company_name/training/data/project/Wafer_Fault_detection/good_raw_data_files directory deleted successfully
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:49 >Good_Data folder deleted!!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:49 >Moving bad files to Archive and deleting Bad_Data folder!!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:49:49 >Archiving of bad training file begin.
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:30 >Bad files moved to archive
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:31 >Bad Raw Data Folder Deleted successfully!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:31 >Archiving of bad training file done.
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:31 >Bad files moved to archive!! Bad folder Deleted!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:31 >Validation Operation completed!!
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:31 >Extracting csv file from table
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:31 >starting of loading of database:training_database,collection:Good_Raw_Data records into InputFile.csv
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:31 >Good_Raw_data has been loaded into pandas dataframe
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:38 >InputFile.csv created successfully in directorycompany_name/training/data/project/Wafer_Fault_detection/training_file_from_db
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:39 >Start of Training
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:39 >Entered the get_data method of the Data_Getter class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:43 >Data Load Successful.Exited the get_data method of the Data_Getter class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:43 >Entered the remove_columns method of the Preprocessor class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:43 >Column removal Successful.Exited the remove_columns method of the Preprocessor class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:44 >Entered the separate_label_feature method of the Preprocessor class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:44 >Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:44 >Entered the is_null_present method of the Preprocessor class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:46 >Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:46 >Entered the impute_missing_values method of the Preprocessor class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:47 >Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:47 >Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:48 >Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:48 >Entered the remove_columns method of the Preprocessor class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:48 >Column removal Successful.Exited the remove_columns method of the Preprocessor class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:48 >Entered the elbow_plot method of the KMeansClustering class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:56 >The optimum number of clusters is: 3. Exited the elbow_plot method of the KMeansClustering class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:56 >Entered the create_clusters method of the KMeansClustering class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:51:57 >Entered the save_model method of the File_Operation class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:03 >Model File KMeanssaved. Exited the save_model method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:03 >successfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:03 >Entered the get_best_model method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:03 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:24 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:24 >AUC for XGBoost:0.5
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:26 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:26 >Naive Bayes best params: {'var_smoothing': 0.5}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:26 >AUC for naive bayes score:0.5
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:27 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:36 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:36 >AUC for Random Forest0.5
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:38 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:55 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:55 >AUC for KNN0.5
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:58 >Entered the get_best_params_for_svm method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:59 >SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:52:59 >AUC for svc0.5
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:04 >Entered the save_model method of the File_Operation class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:13 >Model File XG_BOOST0saved. Exited the save_model method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:13 >Entered the get_best_model method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:13 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:16 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:16 >Accuracy for XGBoost:1.0
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:16 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:16 >Naive Bayes best params: {'var_smoothing': 0.1}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:16 >Accuracy for naive bayes score1.0
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:16 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:23 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:23 >Accuracy for Random Forest0.967741935483871
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:23 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:27 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:27 >Accuracy for KNN clf1.0
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:29 >Entered the save_model method of the File_Operation class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:38 >Model File XG_BOOST1saved. Exited the save_model method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:38 >Entered the get_best_model method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:38 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:45 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:45 >AUC for XGBoost:0.5
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:47 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:47 >Naive Bayes best params: {'var_smoothing': 0.5}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:47 >AUC for naive bayes score:0.5
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:49 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:56 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:56 >AUC for Random Forest0.5
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:53:58 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:54:04 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:54:04 >AUC for KNN0.5
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:54:06 >Entered the get_best_params_for_svm method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:54:07 >SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:54:07 >AUC for svc0.5
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:54:11 >Entered the save_model method of the File_Operation class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:54:20 >Model File XG_BOOST2saved. Exited the save_model method of the Model_Finder class
+a3fb28b7-2b57-4c8e-8938-0ed8826d8b0b: 2021-12-03 18:54:20 >Successful End of Training
+ec0909ff-7baa-479a-bb8b-2e5a06ea498a: 2021-12-03 18:55:45 >Start of Prediction
+ec0909ff-7baa-479a-bb8b-2e5a06ea498a: 2021-12-03 18:55:45 >Entered the get_data method of the Data_Getter class
+b4189112-ddb1-4d0d-a2a5-732bd548d174: 2021-12-03 18:59:29 >Start of Prediction
+b4189112-ddb1-4d0d-a2a5-732bd548d174: 2021-12-03 18:59:29 >Entered the get_data method of the Data_Getter class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:01:47 >Archiving of existing model begin
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:01:50 >Archive model path company_name/training/archive/project/Wafer_Fault_detection/model/model_2021-12-03_190147 will be created.
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:01:50 >Moving file KMeans.sav from directory[company_name/training/data/project/Wafer_Fault_detection/model/KMeans] to archive location: [company_name/training/archive/project/Wafer_Fault_detection/model/model_2021-12-03_190147/KMeans]
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:04 >file KMeans.sav has been archived successfully from directory[company_name/training/data/project/Wafer_Fault_detection/model/KMeans] to archive location: [company_name/training/archive/project/Wafer_Fault_detection/model/model_2021-12-03_190147]
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:04 >Moving file XG_BOOST0.sav from directory[company_name/training/data/project/Wafer_Fault_detection/model/XG_BOOST0] to archive location: [company_name/training/archive/project/Wafer_Fault_detection/model/model_2021-12-03_190147/XG_BOOST0]
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:17 >file XG_BOOST0.sav has been archived successfully from directory[company_name/training/data/project/Wafer_Fault_detection/model/XG_BOOST0] to archive location: [company_name/training/archive/project/Wafer_Fault_detection/model/model_2021-12-03_190147]
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:17 >Moving file XG_BOOST1.sav from directory[company_name/training/data/project/Wafer_Fault_detection/model/XG_BOOST1] to archive location: [company_name/training/archive/project/Wafer_Fault_detection/model/model_2021-12-03_190147/XG_BOOST1]
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:30 >file XG_BOOST1.sav has been archived successfully from directory[company_name/training/data/project/Wafer_Fault_detection/model/XG_BOOST1] to archive location: [company_name/training/archive/project/Wafer_Fault_detection/model/model_2021-12-03_190147]
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:31 >Moving file XG_BOOST2.sav from directory[company_name/training/data/project/Wafer_Fault_detection/model/XG_BOOST2] to archive location: [company_name/training/archive/project/Wafer_Fault_detection/model/model_2021-12-03_190147/XG_BOOST2]
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:43 >file XG_BOOST2.sav has been archived successfully from directory[company_name/training/data/project/Wafer_Fault_detection/model/XG_BOOST2] to archive location: [company_name/training/archive/project/Wafer_Fault_detection/model/model_2021-12-03_190147]
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:43 >Archiving of existing model completed.
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:45 >Start of Validation on files!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:45 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 592
+
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:45 >Removing bad raw directory
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:46 >company_name/training/data/project/Wafer_Fault_detection/bad_raw_data_files directory deleted successfully
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:46 >Removing good raw directory
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:47 >company_name/training/data/project/Wafer_Fault_detection/good_raw_data_files directory deleted successfully
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:02:47 >Good raw and bad raw directory creation begin..
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:07 >company_name/training/data/project/Wafer_Fault_detection/good_raw_data_files and company_name/training/data/project/Wafer_Fault_detection/bad_raw_data_files directory created successfully
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:12 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer12_20012.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:15 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_07012020_000000.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:18 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_07012020_223345.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:21 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_08012020_120000.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:24 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_10012020_131534.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:27 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_11012020_151432.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:30 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_12012020_111.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:33 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_12012020_111213.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:36 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:38 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:41 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15010_130532.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:44 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15012020_130532.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:47 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_18012020_121532.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:50 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_19012020_141432.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:53 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_20012020_135132.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:56 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_21012020_143634.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:03:59 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_22012020_173245.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:01 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_23012020_163456.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:05 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_24012020_150121.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:07 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_25012020_142112.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:10 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_fault_detection.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:13 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_text_130532.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:16 >Invalid File Name!! File moved to Bad Raw Folder :: Waferdefault_15010_130532.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:19 >Valid File name!! File moved to GoodRaw Folder :: wafer_07012020_041011.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:22 >Valid File name!! File moved to GoodRaw Folder :: wafer_13012020_090817.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:26 >Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_051629.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:28 >Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_134553.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:32 >Valid File name!! File moved to GoodRaw Folder :: wafer_17012020_125434.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:35 >Valid File name!! File moved to GoodRaw Folder :: wafer_20012020_090819.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:38 >Valid File name!! File moved to GoodRaw Folder :: wafer_20022020_090716.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:41 >Valid File name!! File moved to GoodRaw Folder :: wafer_21012020_080913.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:44 >Valid File name!! File moved to GoodRaw Folder :: wafer_22022020_041119.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:47 >Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_011008.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:50 >Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_041211.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:53 >Valid File name!! File moved to GoodRaw Folder :: wafer_27012020_080911.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:56 >Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_051011.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:04:59 >Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_090817.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:05:02 >Valid File name!! File moved to GoodRaw Folder :: wafer_28042020_031911.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:05:04 >Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_050617.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:05:07 >Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_060756.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:05:10 >Valid File name!! File moved to GoodRaw Folder :: wafer_31012020_090811.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:05:10 >Column Length Validation Started!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:05:20 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_16012020_134553.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:05:25 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_17012020_125434.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:05:40 >Column Length Validation Completed!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:05:40 >Missing Values Validation Started!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:05:46 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_07012020_041011.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:06:01 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_20012020_090819.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:06:15 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_22022020_041119.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:06:20 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_23012020_011008.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:06:34 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_28012020_051011.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:06:53 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_29012020_060756.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:06:58 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_31012020_090811.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:06:58 >Raw Data Validation Complete!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:06:58 >Starting Data Transforamtion!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:16 > wafer_13012020_090817.csv: File Transformed successfully!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:22 > wafer_16012020_051629.csv: File Transformed successfully!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:26 > wafer_20022020_090716.csv: File Transformed successfully!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:31 > wafer_21012020_080913.csv: File Transformed successfully!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:37 > wafer_23012020_041211.csv: File Transformed successfully!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:43 > wafer_27012020_080911.csv: File Transformed successfully!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:48 > wafer_28012020_090817.csv: File Transformed successfully!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:54 > wafer_28042020_031911.csv: File Transformed successfully!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:59 > wafer_29012020_050617.csv: File Transformed successfully!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:59 >DataTransformation Completed!!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:59 >Creating Training_Database and tables on the basis of given schema!!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:59 >Table creation Completed!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:59 >Insertion of Data into Table started!!!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:59 >Creating database and collection if not exist then create and insert record
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:59 >Droping existing collection if present in database training_system_log
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:07:59 >Starting loading of good files in database:training_database and collection: Good_Raw_Data
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:02 >9 files found in company_name/training/data/project/Wafer_Fault_detection/good_raw_data_files 
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:02 >Insertion of file wafer_13012020_090817.csv started...
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:04 >File: wafer_13012020_090817.csv loaded successfully
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:04 >Insertion of file wafer_16012020_051629.csv started...
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:05 >File: wafer_16012020_051629.csv loaded successfully
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:05 >Insertion of file wafer_20022020_090716.csv started...
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:06 >File: wafer_20022020_090716.csv loaded successfully
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:06 >Insertion of file wafer_21012020_080913.csv started...
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:08 >File: wafer_21012020_080913.csv loaded successfully
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:08 >Insertion of file wafer_23012020_041211.csv started...
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:09 >File: wafer_23012020_041211.csv loaded successfully
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:09 >Insertion of file wafer_27012020_080911.csv started...
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:10 >File: wafer_27012020_080911.csv loaded successfully
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:10 >Insertion of file wafer_28012020_090817.csv started...
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:11 >File: wafer_28012020_090817.csv loaded successfully
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:12 >Insertion of file wafer_28042020_031911.csv started...
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:13 >File: wafer_28042020_031911.csv loaded successfully
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:13 >Insertion of file wafer_29012020_050617.csv started...
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:14 >File: wafer_29012020_050617.csv loaded successfully
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:14 >Insertion in Table completed!!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:14 >Deleting Good Data Folder!!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:14 >Removing good raw directory
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:17 >company_name/training/data/project/Wafer_Fault_detection/good_raw_data_files directory deleted successfully
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:17 >Good_Data folder deleted!!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:17 >Moving bad files to Archive and deleting Bad_Data folder!!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:08:17 >Archiving of bad training file begin.
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:37 >Bad files moved to archive
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:39 >Bad Raw Data Folder Deleted successfully!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:39 >Archiving of bad training file done.
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:39 >Bad files moved to archive!! Bad folder Deleted!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:39 >Validation Operation completed!!
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:39 >Extracting csv file from table
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:39 >starting of loading of database:training_database,collection:Good_Raw_Data records into InputFile.csv
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:39 >Good_Raw_data has been loaded into pandas dataframe
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:47 >InputFile.csv created successfully in directorycompany_name/training/data/project/Wafer_Fault_detection/training_file_from_db
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:48 >Start of Training
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:48 >Entered the get_data method of the Data_Getter class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:52 >Data Load Successful.Exited the get_data method of the Data_Getter class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:52 >Entered the remove_columns method of the Preprocessor class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:52 >Column removal Successful.Exited the remove_columns method of the Preprocessor class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:52 >Entered the separate_label_feature method of the Preprocessor class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:52 >Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:52 >Entered the is_null_present method of the Preprocessor class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:56 >Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:56 >Entered the impute_missing_values method of the Preprocessor class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:56 >Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:56 >Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:57 >Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:57 >Entered the remove_columns method of the Preprocessor class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:57 >Column removal Successful.Exited the remove_columns method of the Preprocessor class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:10:57 >Entered the elbow_plot method of the KMeansClustering class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:09 >The optimum number of clusters is: 3. Exited the elbow_plot method of the KMeansClustering class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:09 >Entered the create_clusters method of the KMeansClustering class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:09 >Entered the save_model method of the File_Operation class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:19 >Model File KMeanssaved. Exited the save_model method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:19 >successfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:19 >Entered the get_best_model method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:19 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:38 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:38 >AUC for XGBoost:0.5
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:40 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:41 >Naive Bayes best params: {'var_smoothing': 0.5}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:41 >AUC for naive bayes score:0.5
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:43 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:51 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:51 >AUC for Random Forest0.5
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:11:53 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:10 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:11 >AUC for KNN0.5
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:13 >Entered the get_best_params_for_svm method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:14 >SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:15 >AUC for svc0.5
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:19 >Entered the save_model method of the File_Operation class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:28 >Model File XG_BOOST0saved. Exited the save_model method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:28 >Entered the get_best_model method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:28 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:32 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:32 >Accuracy for XGBoost:1.0
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:32 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:32 >Naive Bayes best params: {'var_smoothing': 0.1}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:32 >Accuracy for naive bayes score1.0
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:32 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:38 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:38 >Accuracy for Random Forest1.0
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:38 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:42 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:42 >Accuracy for KNN clf1.0
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:44 >Entered the save_model method of the File_Operation class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:54 >Model File XG_BOOST1saved. Exited the save_model method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:54 >Entered the get_best_model method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:12:54 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:01 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:01 >AUC for XGBoost:0.5
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:04 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:04 >Naive Bayes best params: {'var_smoothing': 0.5}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:04 >AUC for naive bayes score:0.5
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:06 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:13 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 130}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:13 >AUC for Random Forest0.5
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:15 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:20 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:21 >AUC for KNN0.5
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:23 >Entered the get_best_params_for_svm method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:23 >SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:23 >AUC for svc0.5
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:28 >Entered the save_model method of the File_Operation class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:37 >Model File XG_BOOST2saved. Exited the save_model method of the Model_Finder class
+7de76c9e-a625-4b40-8d3a-38a575325a17: 2021-12-03 19:13:37 >Successful End of Training
+cb4666e3-1383-4ec4-a8f5-ab0073b07a99: 2021-12-03 19:13:54 >Start of Prediction
+cb4666e3-1383-4ec4-a8f5-ab0073b07a99: 2021-12-03 19:13:54 >Entered the get_data method of the Data_Getter class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:08 >Start of Validation on files for prediction!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:08 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 591
+
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:08 >Removing bad raw directory
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:10 >company_name/prediction/data/project/Wafer_Fault_detection/bad_raw_data_files directory deleted successfully
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:10 >Removing good raw directory
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:11 >company_name/prediction/data/project/Wafer_Fault_detection/good_raw_data_files directory deleted successfully
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:11 >Good raw and bad raw directory creation begin..
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:24 >company_name/prediction/data/project/Wafer_Fault_detection/good_raw_data_files and company_name/prediction/data/project/Wafer_Fault_detection/bad_raw_data_files directory created successfully
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:28 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_13012020_141000.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:31 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_14012020_113045.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:34 >Invalid File Name!! File moved to Bad Raw Folder :: Wafer_15010_130532.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:37 >Valid File name!! File moved to GoodRaw Folder :: wafer_07012020_041011.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:40 >Valid File name!! File moved to GoodRaw Folder :: wafer_13012020_090817.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:43 >Valid File name!! File moved to GoodRaw Folder :: wafer_16012020_051629.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:46 >Valid File name!! File moved to GoodRaw Folder :: wafer_20012020_090819.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:49 >Valid File name!! File moved to GoodRaw Folder :: wafer_20022020_090716.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:52 >Valid File name!! File moved to GoodRaw Folder :: wafer_21012020_080913.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:55 >Valid File name!! File moved to GoodRaw Folder :: wafer_22022020_041119.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:19:58 >Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_011008.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:20:01 >Valid File name!! File moved to GoodRaw Folder :: wafer_23012020_041211.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:20:04 >Valid File name!! File moved to GoodRaw Folder :: wafer_27012020_080911.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:20:07 >Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_051011.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:20:10 >Valid File name!! File moved to GoodRaw Folder :: wafer_28012020_090817.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:20:13 >Valid File name!! File moved to GoodRaw Folder :: wafer_28042020_031911.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:20:16 >Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_050617.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:20:19 >Valid File name!! File moved to GoodRaw Folder :: wafer_29012020_060756.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:20:22 >Valid File name!! File moved to GoodRaw Folder :: wafer_31012020_090811.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:20:22 >Column Length Validation Started!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:20:42 >Column Length Validation Completed!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:20:42 >Missing Values Validation Started!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:20:49 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_07012020_041011.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:21:04 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_20012020_090819.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:21:18 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_22022020_041119.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:21:24 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_23012020_011008.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:21:39 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_28012020_051011.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:22:00 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_29012020_060756.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:22:05 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: wafer_31012020_090811.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:22:05 >Raw Data Validation Complete!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:22:05 >Starting Data Transforamtion!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:22:14 > wafer_13012020_090817.csv: File Transformed successfully!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:22:19 > wafer_16012020_051629.csv: File Transformed successfully!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:22:24 > wafer_20022020_090716.csv: File Transformed successfully!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:22:32 > wafer_21012020_080913.csv: File Transformed successfully!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:22:42 > wafer_23012020_041211.csv: File Transformed successfully!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:22:53 > wafer_27012020_080911.csv: File Transformed successfully!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:04 > wafer_28012020_090817.csv: File Transformed successfully!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:15 > wafer_28042020_031911.csv: File Transformed successfully!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:25 > wafer_29012020_050617.csv: File Transformed successfully!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:26 >DataTransformation Completed!!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:26 >Creating Prediction_Database and tables on the basis of given schema!!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:26 >Creating database and collection if not exist then create and insert record
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:26 >Droping existing collection if present in database prediction_system_log
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:26 >Starting loading of good files in database:prediction_system_log and collection: Wafer_Fault_detection_good_raw_data_1
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:29 >9 files found in company_name/prediction/data/project/Wafer_Fault_detection/good_raw_data_files 
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:29 >Insertion of file wafer_13012020_090817.csv started...
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:31 >File: wafer_13012020_090817.csv loaded successfully
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:31 >Insertion of file wafer_16012020_051629.csv started...
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:32 >File: wafer_16012020_051629.csv loaded successfully
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:32 >Insertion of file wafer_20022020_090716.csv started...
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:33 >File: wafer_20022020_090716.csv loaded successfully
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:33 >Insertion of file wafer_21012020_080913.csv started...
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:35 >File: wafer_21012020_080913.csv loaded successfully
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:35 >Insertion of file wafer_23012020_041211.csv started...
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:36 >File: wafer_23012020_041211.csv loaded successfully
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:36 >Insertion of file wafer_27012020_080911.csv started...
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:38 >File: wafer_27012020_080911.csv loaded successfully
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:38 >Insertion of file wafer_28012020_090817.csv started...
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:39 >File: wafer_28012020_090817.csv loaded successfully
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:39 >Insertion of file wafer_28042020_031911.csv started...
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:40 >File: wafer_28042020_031911.csv loaded successfully
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:40 >Insertion of file wafer_29012020_050617.csv started...
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:41 >File: wafer_29012020_050617.csv loaded successfully
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:41 >Insertion in Table completed!!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:41 >Deleting Good Data Folder!!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:41 >Removing good raw directory
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:45 >company_name/prediction/data/project/Wafer_Fault_detection/good_raw_data_files directory deleted successfully
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:45 >Good_Data folder deleted!!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:45 >Moving bad files to Archive and deleting Bad_Data folder!!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:23:45 >Archiving of bad prediction file begin.
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:24:35 >Bad files moved to archive
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:24:36 >Bad Raw Data Folder Deleted successfully!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:24:36 >Archiving of bad prediction file done.
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:24:36 >Bad files moved to archive!! Bad folder Deleted!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:24:36 >Validation Operation completed!!
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:24:36 >Extracting csv file from table
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:24:36 >starting of loading of database:training_database,collection:Good_Raw_Data records into InputFile.csv
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:24:36 >Good_Raw_data has been loaded into pandas dataframe
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:24:53 >InputFile.csv created successfully in directorycompany_name/prediction/data/project/Wafer_Fault_detection/prediction_file_from_db
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:24:53 >Extraction csv file from table completed.
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:24:57 >Start of Prediction
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:24:57 >Entered the get_data method of the Data_Getter class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:01 >Data Load Successful.Exited the get_data method of the Data_Getter class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:01 >Entered the is_null_present method of the Preprocessor class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:05 >Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:05 >Entered the impute_missing_values method of the Preprocessor class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:05 >Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:06 >Entered the get_columns_with_zero_std_deviation method of the Preprocessor class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:06 >Column search for Standard Deviation of Zero Successful. Exited the get_columns_with_zero_std_deviation method of the Preprocessor class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:07 >Entered the remove_columns method of the Preprocessor class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:07 >Column removal Successful.Exited the remove_columns method of the Preprocessor class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:07 >Entered the load_model method of the File_Operation class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:08 >Entered the find_correct_model_file method of the File_Operation class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:09 >Entered the load_model method of the File_Operation class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:20 >Entered the find_correct_model_file method of the File_Operation class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:21 >Entered the load_model method of the File_Operation class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:26 >Entered the find_correct_model_file method of the File_Operation class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:27 >Entered the load_model method of the File_Operation class
+27c28485-0057-4f7a-bb11-3a7a2aae2b60: 2021-12-03 19:25:33 >End of Prediction
+ea29a02f-7bcc-4e09-96f3-c1cb62be6db1: 2021-12-03 23:51:25 >Archiving of existing model begin
+ea29a02f-7bcc-4e09-96f3-c1cb62be6db1: 2021-12-03 23:51:27 >Source company_name/training/data/project/thyroid_detection/model directory is not found 
+ea29a02f-7bcc-4e09-96f3-c1cb62be6db1: 2021-12-03 23:51:30 >Start of Validation on files!!
+ea29a02f-7bcc-4e09-96f3-c1cb62be6db1: 2021-12-03 23:51:30 >LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 30
+
+ea29a02f-7bcc-4e09-96f3-c1cb62be6db1: 2021-12-03 23:51:30 >Removing bad raw directory
+ea29a02f-7bcc-4e09-96f3-c1cb62be6db1: 2021-12-03 23:51:32 >company_name/training/data/project/thyroid_detection/bad_raw_data_files directory deleted successfully
+ea29a02f-7bcc-4e09-96f3-c1cb62be6db1: 2021-12-03 23:51:32 >Removing good raw directory
+ea29a02f-7bcc-4e09-96f3-c1cb62be6db1: 2021-12-03 23:51:33 >company_name/training/data/project/thyroid_detection/good_raw_data_files directory deleted successfully
+ea29a02f-7bcc-4e09-96f3-c1cb62be6db1: 2021-12-03 23:51:33 >Good raw and bad raw directory creation begin..
+ea29a02f-7bcc-4e09-96f3-c1cb62be6db1: 2021-12-03 23:51:51 >company_name/training/data/project/thyroid_detection/good_raw_data_files and company_name/training/data/project/thyroid_detection/bad_raw_data_files directory created successfully
+ea29a02f-7bcc-4e09-96f3-c1cb62be6db1: 2021-12-03 23:51:52 >Directory [company_name/training/data/project/thyroid_detection/training_batch_files/] does not exist
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:12 >Archiving of existing model begin
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:15 >Source company_name/training/data/project/thyroid_detection/model directory is not found 
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:17 >Start of Validation on files!!
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:17 >LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 30
+
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:18 >Removing bad raw directory
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:19 >company_name/training/data/project/thyroid_detection/bad_raw_data_files directory deleted successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:19 >Removing good raw directory
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:21 >company_name/training/data/project/thyroid_detection/good_raw_data_files directory deleted successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:21 >Good raw and bad raw directory creation begin..
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:38 >company_name/training/data/project/thyroid_detection/good_raw_data_files and company_name/training/data/project/thyroid_detection/bad_raw_data_files directory created successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:43 >Invalid File Name!! File moved to Bad Raw Folder :: _0211198_0102062112004.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:47 >Invalid File Name!! File moved to Bad Raw Folder :: hypothyroid_0102062112000.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:50 >Invalid File Name!! File moved to Bad Raw Folder :: hypothyroid_02111.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:54 >Invalid File Name!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:56:58 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062111000.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:02 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062111998.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:06 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062111999.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:10 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112000.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:14 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112001.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:17 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112002.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:21 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112003.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:25 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112004.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:29 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112005.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:33 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112006.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:37 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112007.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:40 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112008.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:44 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112009.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:48 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112010.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:52 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112011.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:57:56 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112012.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:58:00 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112013.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:58:04 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112014.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:58:07 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112015.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:58:11 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112016.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:58:15 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112025.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:58:19 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112042.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:58:23 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112109.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:58:26 >Invalid File Name!! File moved to Bad Raw Folder :: wafer_0211198_0102062112001.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:58:27 >Column Length Validation Started!!
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:58:35 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062111000.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:59:08 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112025.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:59:15 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112042.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:59:22 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112109.csv
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:59:22 >Column Length Validation Completed!!
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-03 23:59:22 >Missing Values Validation Started!!
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:08 >Raw Data Validation Complete!!
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:08 >Starting Data Transforamtion!!
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:09 >DataTransformation Completed!!!
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:09 >Creating Training_Database and tables on the basis of given schema!!!
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:09 >Table creation Completed!!
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:09 >Insertion of Data into Table started!!!!
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:09 >Creating database and collection if not exist then create and insert record
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:09 >Droping existing collection if present in database training_system_log
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:09 >Starting loading of good files in database:training_database and collection: Good_Raw_Data
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:13 >19 files found in company_name/training/data/project/thyroid_detection/good_raw_data_files 
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:13 >Insertion of file hypothyroid_0211198_0102062111998.csv started...
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:15 >File: hypothyroid_0211198_0102062111998.csv loaded successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:16 >Insertion of file hypothyroid_0211198_0102062111999.csv started...
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:17 >File: hypothyroid_0211198_0102062111999.csv loaded successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:17 >Insertion of file hypothyroid_0211198_0102062112000.csv started...
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:19 >File: hypothyroid_0211198_0102062112000.csv loaded successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:19 >Insertion of file hypothyroid_0211198_0102062112001.csv started...
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:21 >File: hypothyroid_0211198_0102062112001.csv loaded successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:21 >Insertion of file hypothyroid_0211198_0102062112002.csv started...
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:23 >File: hypothyroid_0211198_0102062112002.csv loaded successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:23 >Insertion of file hypothyroid_0211198_0102062112003.csv started...
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:24 >File: hypothyroid_0211198_0102062112003.csv loaded successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:25 >Insertion of file hypothyroid_0211198_0102062112004.csv started...
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:26 >File: hypothyroid_0211198_0102062112004.csv loaded successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:26 >Insertion of file hypothyroid_0211198_0102062112005.csv started...
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:28 >File: hypothyroid_0211198_0102062112005.csv loaded successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:28 >Insertion of file hypothyroid_0211198_0102062112006.csv started...
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:42 >File: hypothyroid_0211198_0102062112006.csv loaded successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:43 >Insertion of file hypothyroid_0211198_0102062112007.csv started...
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:59 >File: hypothyroid_0211198_0102062112007.csv loaded successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:01:59 >Insertion of file hypothyroid_0211198_0102062112008.csv started...
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:02:07 >File: hypothyroid_0211198_0102062112008.csv loaded successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:02:07 >Insertion of file hypothyroid_0211198_0102062112009.csv started...
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:02:27 >File: hypothyroid_0211198_0102062112009.csv loaded successfully
+a5446108-67c0-4c3f-ba84-5cdac326e4a7: 2021-12-04 00:02:27 >Insertion of file hypothyroid_0211198_0102062112010.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:06 >Archiving of existing model begin
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:08 >Source company_name/training/data/project/thyroid_detection/model directory is not found 
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:10 >Start of Validation on files!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:10 >LengthOfDateStampInFile:: 7	LengthOfTimeStampInFile:: 13	 NumberofColumns:: 30
+
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:10 >Removing bad raw directory
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:13 >company_name/training/data/project/thyroid_detection/bad_raw_data_files directory deleted successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:13 >Removing good raw directory
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:19 >company_name/training/data/project/thyroid_detection/good_raw_data_files directory deleted successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:19 >Good raw and bad raw directory creation begin..
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:32 >company_name/training/data/project/thyroid_detection/good_raw_data_files and company_name/training/data/project/thyroid_detection/bad_raw_data_files directory created successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:36 >Invalid File Name!! File moved to Bad Raw Folder :: _0211198_0102062112004.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:39 >Invalid File Name!! File moved to Bad Raw Folder :: hypothyroid_0102062112000.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:42 >Invalid File Name!! File moved to Bad Raw Folder :: hypothyroid_02111.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:45 >Invalid File Name!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:48 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062111000.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:51 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062111998.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:54 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062111999.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:11:57 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112000.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:00 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112001.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:03 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112002.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:06 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112003.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:09 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112004.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:12 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112005.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:15 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112006.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:18 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112007.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:21 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112008.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:24 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112009.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:27 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112010.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:30 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112011.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:33 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112012.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:36 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112013.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:39 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112014.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:41 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112015.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:44 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112016.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:47 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112025.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:50 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112042.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:53 >Valid File name!! File moved to GoodRaw Folder :: hypothyroid_0211198_0102062112109.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:56 >Invalid File Name!! File moved to Bad Raw Folder :: wafer_0211198_0102062112001.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:12:56 >Column Length Validation Started!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:13:05 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062111000.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:13:32 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112025.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:13:38 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112042.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:13:43 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: hypothyroid_0211198_0102062112109.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:13:43 >Column Length Validation Completed!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:13:43 >Missing Values Validation Started!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:07 >Raw Data Validation Complete!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:07 >Starting Data Transforamtion!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:07 >DataTransformation Completed!!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:07 >Creating Training_Database and tables on the basis of given schema!!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:07 >Table creation Completed!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:07 >Insertion of Data into Table started!!!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:07 >Creating database and collection if not exist then create and insert record
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:07 >Droping existing collection if present in database training_system_log
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:07 >Starting loading of good files in database:training_database and collection: Good_Raw_Data
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:10 >19 files found in company_name/training/data/project/thyroid_detection/good_raw_data_files 
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:10 >Insertion of file hypothyroid_0211198_0102062111998.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:12 >File: hypothyroid_0211198_0102062111998.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:12 >Insertion of file hypothyroid_0211198_0102062111999.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:13 >File: hypothyroid_0211198_0102062111999.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:13 >Insertion of file hypothyroid_0211198_0102062112000.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:14 >File: hypothyroid_0211198_0102062112000.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:14 >Insertion of file hypothyroid_0211198_0102062112001.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:16 >File: hypothyroid_0211198_0102062112001.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:16 >Insertion of file hypothyroid_0211198_0102062112002.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:17 >File: hypothyroid_0211198_0102062112002.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:17 >Insertion of file hypothyroid_0211198_0102062112003.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:18 >File: hypothyroid_0211198_0102062112003.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:18 >Insertion of file hypothyroid_0211198_0102062112004.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:19 >File: hypothyroid_0211198_0102062112004.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:19 >Insertion of file hypothyroid_0211198_0102062112005.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:21 >File: hypothyroid_0211198_0102062112005.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:21 >Insertion of file hypothyroid_0211198_0102062112006.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:22 >File: hypothyroid_0211198_0102062112006.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:22 >Insertion of file hypothyroid_0211198_0102062112007.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:23 >File: hypothyroid_0211198_0102062112007.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:23 >Insertion of file hypothyroid_0211198_0102062112008.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:24 >File: hypothyroid_0211198_0102062112008.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:24 >Insertion of file hypothyroid_0211198_0102062112009.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:26 >File: hypothyroid_0211198_0102062112009.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:26 >Insertion of file hypothyroid_0211198_0102062112010.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:27 >File: hypothyroid_0211198_0102062112010.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:27 >Insertion of file hypothyroid_0211198_0102062112011.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:28 >File: hypothyroid_0211198_0102062112011.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:28 >Insertion of file hypothyroid_0211198_0102062112012.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:29 >File: hypothyroid_0211198_0102062112012.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:29 >Insertion of file hypothyroid_0211198_0102062112013.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:31 >File: hypothyroid_0211198_0102062112013.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:31 >Insertion of file hypothyroid_0211198_0102062112014.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:32 >File: hypothyroid_0211198_0102062112014.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:32 >Insertion of file hypothyroid_0211198_0102062112015.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:33 >File: hypothyroid_0211198_0102062112015.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:33 >Insertion of file hypothyroid_0211198_0102062112016.csv started...
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:35 >File: hypothyroid_0211198_0102062112016.csv loaded successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:35 >Insertion in Table completed!!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:35 >Deleting Good Data Folder!!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:35 >Removing good raw directory
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:40 >company_name/training/data/project/thyroid_detection/good_raw_data_files directory deleted successfully
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:40 >Good_Data folder deleted!!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:40 >Moving bad files to Archive and deleting Bad_Data folder!!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:15:40 >Archiving of bad training file begin.
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:27 >Bad files moved to archive
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:28 >Bad Raw Data Folder Deleted successfully!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:28 >Archiving of bad training file done.
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:28 >Bad files moved to archive!! Bad folder Deleted!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:28 >Validation Operation completed!!
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:28 >Extracting csv file from table
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:28 >starting of loading of database:training_database,collection:Good_Raw_Data records into InputFile.csv
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:28 >Good_Raw_data has been loaded into pandas dataframe
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:38 >InputFile.csv created successfully in directorycompany_name/training/data/project/thyroid_detection/training_file_from_db
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:39 >Start of Training
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:39 >Entered the get_data method of the Data_Getter class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:43 >Data Load Successful.Exited the get_data method of the Data_Getter class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:43 >Entered the remove_columns method of the Preprocessor class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:43 >Column removal Successful.Exited the remove_columns method of the Preprocessor class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:58 >Entered the separate_label_feature method of the Preprocessor class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:58 >Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:17:58 >Entered the is_null_present method of the Preprocessor class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:18:09 >Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:18:09 >Entered the impute_missing_values method of the Preprocessor class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:18:09 >Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:18:09 >Entered the elbow_plot method of the KMeansClustering class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:18:24 >The optimum number of clusters is: 3. Exited the elbow_plot method of the KMeansClustering class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:18:24 >Entered the create_clusters method of the KMeansClustering class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:18:24 >Entered the save_model method of the File_Operation class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:18:34 >Model File KMeanssaved. Exited the save_model method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:18:34 >successfully created 3clusters. Exited the create_clusters method of the KMeansClustering class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:18:35 >Entered the get_best_model method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:18:35 >Entered the get_best_model method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:18:35 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:19:18 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:19:20 >AUC for XGBoost:0.9998982657836537
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:19:20 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:19:21 >Naive Bayes best params: {'var_smoothing': 0.001}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:19:23 >AUC for naive bayes score:0.7517718307205512
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:19:23 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:19:40 >Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:19:42 >AUC for Random Forest0.8435042125570872
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:19:42 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:20:21 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 2}. Exited the KNN method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:20:23 >AUC for KNN0.9823776752885296
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:20:23 >Entered the get_best_params_for_svm method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:21:04 >SVM best params: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:21:06 >AUC for svc0.7384129596743181
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:21:09 >Entered the save_model method of the File_Operation class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:21:19 >Model File XG_BOOST2saved. Exited the save_model method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:21:19 >Entered the get_best_model method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:21:19 >Entered the get_best_model method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:21:19 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:22:02 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 200}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:22:04 >AUC for XGBoost:0.9989714013065243
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:22:04 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:22:04 >Naive Bayes best params: {'var_smoothing': 0.001}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:22:06 >AUC for naive bayes score:0.9576935600923744
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:22:06 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:22:23 >Random Forest best params: {'criterion': 'entropy', 'max_depth': 3, 'max_features': 'auto', 'n_estimators': 50}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:22:25 >AUC for Random Forest0.9629037806531959
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:22:25 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:23:07 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 2}. Exited the KNN method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:23:09 >AUC for KNN0.9762215067946888
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:23:09 >Entered the get_best_params_for_svm method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:23:54 >SVM best params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:23:56 >AUC for svc0.9386440671611918
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:23:58 >Entered the save_model method of the File_Operation class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:24:08 >Model File XG_BOOST0saved. Exited the save_model method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:24:08 >Entered the get_best_model method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:24:08 >Entered the get_best_model method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:24:08 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:24:17 >XGBoost best params: {'learning_rate': 0.5, 'max_depth': 20, 'n_estimators': 10}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:24:19 >AUC for XGBoost:0.9892455961670152
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:24:19 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:24:19 >Naive Bayes best params: {'var_smoothing': 0.001}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:24:21 >AUC for naive bayes score:0.9690753885353273
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:24:21 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:24:36 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}. Exited the get_best_params_for_random_forest method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:24:38 >AUC for Random Forest0.9304732385274189
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:24:38 >Entered the get_best_params_for_Ensembled_KNN method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:25:02 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:25:05 >AUC for KNN0.8655348047538199
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:25:05 >Entered the get_best_params_for_svm method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:25:18 >SVM best params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:25:20 >AUC for svc0.9469343262358375
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:25:22 >Entered the save_model method of the File_Operation class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:25:32 >Model File XG_BOOST1saved. Exited the save_model method of the Model_Finder class
+6215e5c0-6c36-408a-bb78-c88a3e925128: 2021-12-04 13:25:32 >Successful End of Training
+7a33ae94-0413-4dff-9f09-0ac4e6078469: 2021-12-04 14:03:33 >Training begin for project id 16 user id 1  
+7a33ae94-0413-4dff-9f09-0ac4e6078469: 2021-12-04 14:03:33 >sentiment file name extracted training_data.json
+7a33ae94-0413-4dff-9f09-0ac4e6078469: 2021-12-04 14:03:52 >Directory created company_name/training/data/project/Sentiment_prediction/training_batch_files/1/16
+7a33ae94-0413-4dff-9f09-0ac4e6078469: 2021-12-04 14:03:52 >Extarcted data from training into dictonary
+7a33ae94-0413-4dff-9f09-0ac4e6078469: 2021-12-04 14:03:56 >file content has been written into path company_name/training/data/project/Sentiment_prediction/training_batch_files/1/16 file training_data.json   
+7a33ae94-0413-4dff-9f09-0ac4e6078469: 2021-12-04 14:03:56 >model and json file path company_name/training/data/project/Sentiment_prediction/training_batch_files/1/16
+7a33ae94-0413-4dff-9f09-0ac4e6078469: 2021-12-04 14:04:05 >Training completed successfully
+30c5cb16-0298-4839-ba95-77b86b5a56dc: 2021-12-04 14:04:48 >Training begin for project id 16 user id 1  
+30c5cb16-0298-4839-ba95-77b86b5a56dc: 2021-12-04 14:04:48 >Prediction Started
+30c5cb16-0298-4839-ba95-77b86b5a56dc: 2021-12-04 14:04:48 >Training file name fetched training_data.json
+30c5cb16-0298-4839-ba95-77b86b5a56dc: 2021-12-04 14:04:48 >Training file path fetched company_name/training/data/project/Sentiment_prediction/training_batch_files/1/16
+30c5cb16-0298-4839-ba95-77b86b5a56dc: 2021-12-04 14:04:48 >Model file name modelForPrediction.sav
+30c5cb16-0298-4839-ba95-77b86b5a56dc: 2021-12-04 14:04:48 >Vector file name vectorizer.pickle
+30c5cb16-0298-4839-ba95-77b86b5a56dc: 2021-12-04 14:04:53 >Prediction completed  and predicted label [4]
+a4744368-3f84-401f-a3ed-12512b1375f7: 2021-12-04 14:05:43 >Training begin for project id 16 user id 1  
+a4744368-3f84-401f-a3ed-12512b1375f7: 2021-12-04 14:05:43 >Prediction Started
+a4744368-3f84-401f-a3ed-12512b1375f7: 2021-12-04 14:05:43 >Training file name fetched training_data.json
+a4744368-3f84-401f-a3ed-12512b1375f7: 2021-12-04 14:05:43 >Training file path fetched company_name/training/data/project/Sentiment_prediction/training_batch_files/1/16
+a4744368-3f84-401f-a3ed-12512b1375f7: 2021-12-04 14:05:43 >Model file name modelForPrediction.sav
+a4744368-3f84-401f-a3ed-12512b1375f7: 2021-12-04 14:05:43 >Vector file name vectorizer.pickle
+a4744368-3f84-401f-a3ed-12512b1375f7: 2021-12-04 14:05:48 >Prediction completed  and predicted label [4]
+93712a1d-7401-4dc0-ba3e-1733b90214e9: 2021-12-04 14:09:34 >Archiving of existing model begin
+93712a1d-7401-4dc0-ba3e-1733b90214e9: 2021-12-04 14:09:36 >Source company_name/training/data/project/Mushroom_classifier/model directory is not found 
+93712a1d-7401-4dc0-ba3e-1733b90214e9: 2021-12-04 14:09:38 >Start of Validation on files!!
+93712a1d-7401-4dc0-ba3e-1733b90214e9: 2021-12-04 14:09:38 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+93712a1d-7401-4dc0-ba3e-1733b90214e9: 2021-12-04 14:09:38 >Removing bad raw directory
+93712a1d-7401-4dc0-ba3e-1733b90214e9: 2021-12-04 14:09:39 >company_name/training/data/project/Mushroom_classifier/bad_raw_data_files directory deleted successfully
+93712a1d-7401-4dc0-ba3e-1733b90214e9: 2021-12-04 14:09:39 >Removing good raw directory
+93712a1d-7401-4dc0-ba3e-1733b90214e9: 2021-12-04 14:09:40 >company_name/training/data/project/Mushroom_classifier/good_raw_data_files directory deleted successfully
+93712a1d-7401-4dc0-ba3e-1733b90214e9: 2021-12-04 14:09:40 >Good raw and bad raw directory creation begin..
+93712a1d-7401-4dc0-ba3e-1733b90214e9: 2021-12-04 14:09:54 >company_name/training/data/project/Mushroom_classifier/good_raw_data_files and company_name/training/data/project/Mushroom_classifier/bad_raw_data_files directory created successfully
+93712a1d-7401-4dc0-ba3e-1733b90214e9: 2021-12-04 14:09:55 >Directory [company_name/training/data/project/Mushroom_classifier/training_batch_files/] does not exist
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:12:34 >Archiving of existing model begin
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:12:36 >Source company_name/training/data/project/Mushroom_classifier/model directory is not found 
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:12:38 >Start of Validation on files!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:12:38 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 23
+
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:12:38 >Removing bad raw directory
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:12:39 >company_name/training/data/project/Mushroom_classifier/bad_raw_data_files directory deleted successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:12:39 >Removing good raw directory
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:12:41 >company_name/training/data/project/Mushroom_classifier/good_raw_data_files directory deleted successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:12:41 >Good raw and bad raw directory creation begin..
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:12:54 >company_name/training/data/project/Mushroom_classifier/good_raw_data_files and company_name/training/data/project/Mushroom_classifier/bad_raw_data_files directory created successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:12:58 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:01 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:04 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:07 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:10 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:13 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:16 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:19 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:23 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:26 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:29 >Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:32 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:35 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:38 >Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:41 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:44 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:13:44 >Column Length Validation Started!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:14:06 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: mushroom_08012018_120088.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:14:06 >Column Length Validation Completed!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:14:06 >Missing Values Validation Started!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:06 >Raw Data Validation Complete!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:06 >Starting Data Transforamtion!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:06 >DataTransformation Completed!!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:06 >Creating Training_Database and tables on the basis of given schema!!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:06 >Table creation Completed!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:06 >Insertion of Data into Table started!!!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:06 >Creating database and collection if not exist then create and insert record
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:06 >Droping existing collection if present in database training_system_log
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:06 >Starting loading of good files in database:training_database and collection: Good_Raw_Data
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:08 >13 files found in company_name/training/data/project/Mushroom_classifier/good_raw_data_files 
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:08 >Insertion of file mushroom_08012006_120010.csv started...
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:10 >File: mushroom_08012006_120010.csv loaded successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:10 >Insertion of file mushroom_08012007_120011.csv started...
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:11 >File: mushroom_08012007_120011.csv loaded successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:11 >Insertion of file mushroom_08012008_120012.csv started...
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:12 >File: mushroom_08012008_120012.csv loaded successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:12 >Insertion of file mushroom_08012009_120013.csv started...
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:14 >File: mushroom_08012009_120013.csv loaded successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:14 >Insertion of file mushroom_08012010_120014.csv started...
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:15 >File: mushroom_08012010_120014.csv loaded successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:15 >Insertion of file mushroom_08012011_120015.csv started...
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:16 >File: mushroom_08012011_120015.csv loaded successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:16 >Insertion of file mushroom_08012012_120016.csv started...
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:18 >File: mushroom_08012012_120016.csv loaded successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:18 >Insertion of file mushroom_08012013_120017.csv started...
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:19 >File: mushroom_08012013_120017.csv loaded successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:19 >Insertion of file mushroom_08012014_120018.csv started...
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:20 >File: mushroom_08012014_120018.csv loaded successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:20 >Insertion of file mushroom_08012015_120019.csv started...
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:21 >File: mushroom_08012015_120019.csv loaded successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:22 >Insertion of file mushroom_08012016_120020.csv started...
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:23 >File: mushroom_08012016_120020.csv loaded successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:23 >Insertion of file mushroom_08012017_120021.csv started...
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:24 >File: mushroom_08012017_120021.csv loaded successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:24 >Insertion of file mushroom_08012018_120022.csv started...
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:25 >File: mushroom_08012018_120022.csv loaded successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:25 >Insertion in Table completed!!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:25 >Deleting Good Data Folder!!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:26 >Removing good raw directory
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:30 >company_name/training/data/project/Mushroom_classifier/good_raw_data_files directory deleted successfully
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:30 >Good_Data folder deleted!!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:30 >Moving bad files to Archive and deleting Bad_Data folder!!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:30 >Archiving of bad training file begin.
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:52 >Bad files moved to archive
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:54 >Bad Raw Data Folder Deleted successfully!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:54 >Archiving of bad training file done.
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:54 >Bad files moved to archive!! Bad folder Deleted!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:54 >Validation Operation completed!!
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:54 >Extracting csv file from table
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:54 >starting of loading of database:training_database,collection:Good_Raw_Data records into InputFile.csv
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:15:54 >Good_Raw_data has been loaded into pandas dataframe
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:06 >InputFile.csv created successfully in directorycompany_name/training/data/project/Mushroom_classifier/training_file_from_db
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:07 >Start of Training
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:07 >Entered the get_data method of the Data_Getter class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:11 >Data Load Successful.Exited the get_data method of the Data_Getter class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:11 >Entered the remove_columns method of the Preprocessor class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:11 >Column removal Successful.Exited the remove_columns method of the Preprocessor class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:11 >Entered the is_null_present method of the Preprocessor class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:20 >Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:20 >Entered the impute_missing_values method of the Preprocessor class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:20 >Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:40 >Entered the separate_label_feature method of the Preprocessor class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:40 >Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:40 >Entered the elbow_plot method of the KMeansClustering class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:47 >The optimum number of clusters is: 5. Exited the elbow_plot method of the KMeansClustering class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:47 >Entered the create_clusters method of the KMeansClustering class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:47 >Entered the save_model method of the File_Operation class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:57 >Model File KMeanssaved. Exited the save_model method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:57 >successfully created 5clusters. Exited the create_clusters method of the KMeansClustering class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:57 >Entered the get_best_model method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:16:57 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:17:28 >XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:17:28 >AUC for XGBoost:1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:17:30 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:17:30 >Naive Bayes best params: {'var_smoothing': 0.01}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:17:30 >AUC for naive bayes score:0.9837686149715337
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:17:32 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:17:46 >Random Forest best params: {'criterion': 'gini', 'max_depth': 3, 'max_features': 'log2', 'n_estimators': 100}.Exited the get_best_params_for_random_forest method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:17:46 >AUC for Random Forest0.9383561643835616
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:17:49 >Entered the get_best_params_for_KNN method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:18:45 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:18:45 >AUC for KNN0.9981851179673321
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:18:48 >Entered the get_best_params_for_svm method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:04 >SVM best params: {'C': 1.0, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:04 >AUC for svc1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:08 >Entered the save_model method of the File_Operation class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:18 >Model File XG_BOOST0saved. Exited the save_model method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:19 >Entered the get_best_model method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:19 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:23 >XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:24 >Accuracy for XGBoost:1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:24 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:24 >Naive Bayes best params: {'var_smoothing': 1e-09}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:24 >Accuracy for naive bayes score1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:24 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:36 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}.Exited the get_best_params_for_random_forest method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:36 >Accuracy for Random Forest1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:36 >Entered the get_best_params_for_KNN method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:46 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:46 >Accuracy for KNN clf1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:48 >Entered the save_model method of the File_Operation class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:58 >Model File XG_BOOST4saved. Exited the save_model method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:58 >Entered the get_best_model method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:19:58 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:20:08 >XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:20:08 >Accuracy for XGBoost:1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:20:08 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:20:08 >Naive Bayes best params: {'var_smoothing': 1e-09}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:20:08 >Accuracy for naive bayes score1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:20:08 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:20:20 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}.Exited the get_best_params_for_random_forest method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:20:20 >Accuracy for Random Forest1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:20:20 >Entered the get_best_params_for_KNN method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:20:49 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:20:49 >Accuracy for KNN clf1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:20:52 >Entered the save_model method of the File_Operation class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:01 >Model File XG_BOOST2saved. Exited the save_model method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:01 >Entered the get_best_model method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:01 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:08 >XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:08 >Accuracy for XGBoost:1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:08 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:09 >Naive Bayes best params: {'var_smoothing': 1e-09}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:09 >Accuracy for naive bayes score1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:09 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:21 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 10}.Exited the get_best_params_for_random_forest method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:21 >Accuracy for Random Forest1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:21 >Entered the get_best_params_for_KNN method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:39 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:39 >Accuracy for KNN clf1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:41 >Entered the save_model method of the File_Operation class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:51 >Model File XG_BOOST1saved. Exited the save_model method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:51 >Entered the get_best_model method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:21:51 >Entered the get_best_params_for_xgboost method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:22:02 >XGBoost best params: {'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}. Exited the get_best_params_for_xgboost method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:22:02 >AUC for XGBoost:1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:22:05 >Entered the get_best_params_for_naive_bayes method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:22:05 >Naive Bayes best params: {'var_smoothing': 1e-09}. Exited the get_best_params_for_naive_bayes method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:22:05 >AUC for naive bayes score:1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:22:07 >Entered the get_best_params_for_random_forest method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:22:20 >Random Forest best params: {'criterion': 'gini', 'max_depth': 2, 'max_features': 'auto', 'n_estimators': 50}.Exited the get_best_params_for_random_forest method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:22:20 >AUC for Random Forest1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:22:22 >Entered the get_best_params_for_KNN method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:22:54 >KNN best params: {'algorithm': 'ball_tree', 'leaf_size': 10, 'n_neighbors': 4, 'p': 1}. Exited the KNN method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:22:54 >AUC for KNN1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:22:57 >Entered the get_best_params_for_svm method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:22:58 >SVM best params: {'C': 0.5, 'kernel': 'rbf', 'random_state': 0}. Exited the get_best_params_for_svm method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:22:58 >AUC for svc1.0
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:23:03 >Entered the save_model method of the File_Operation class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:23:13 >Model File XG_BOOST3saved. Exited the save_model method of the Model_Finder class
+868887bc-2df6-4d1f-84db-77a382956001: 2021-12-04 14:23:13 >Successful End of Training
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:26:50 >Start of Validation on files for prediction!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:26:50 >LengthOfDateStampInFile:: 8	LengthOfTimeStampInFile:: 6	 NumberofColumns:: 22
+
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:26:50 >Removing bad raw directory
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:26:52 >company_name/prediction/data/project/Mushroom_classifier/bad_raw_data_files directory deleted successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:26:52 >Removing good raw directory
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:26:54 >company_name/prediction/data/project/Mushroom_classifier/good_raw_data_files directory deleted successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:26:54 >Good raw and bad raw directory creation begin..
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:08 >company_name/prediction/data/project/Mushroom_classifier/good_raw_data_files and company_name/prediction/data/project/Mushroom_classifier/bad_raw_data_files directory created successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:12 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:15 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:18 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:21 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:24 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:27 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:30 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:33 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:36 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:39 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:43 >Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:46 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:49 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:52 >Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:55 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:58 >Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:27:58 >Column Length Validation Started!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:28:20 >Invalid Column Length for the file!! File moved to Bad Raw Folder :: mushroom_08012018_120088.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:28:20 >Column Length Validation Completed!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:28:20 >Missing Values Validation Started!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:18 >Raw Data Validation Complete!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:18 >Starting Data Transforamtion!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:18 >DataTransformation Completed!!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:18 >Creating Prediction_Database and tables on the basis of given schema!!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:18 >Creating database and collection if not exist then create and insert record
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:18 >Droping existing collection if present in database prediction_system_log
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:18 >Starting loading of good files in database:prediction_system_log and collection: Mushroom_classifier_good_raw_data_3
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:20 >13 files found in company_name/prediction/data/project/Mushroom_classifier/good_raw_data_files 
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:20 >Insertion of file mushroom_08012006_120010.csv started...
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:22 >File: mushroom_08012006_120010.csv loaded successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:22 >Insertion of file mushroom_08012007_120011.csv started...
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:23 >File: mushroom_08012007_120011.csv loaded successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:23 >Insertion of file mushroom_08012008_120012.csv started...
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:24 >File: mushroom_08012008_120012.csv loaded successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:24 >Insertion of file mushroom_08012009_120013.csv started...
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:25 >File: mushroom_08012009_120013.csv loaded successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:25 >Insertion of file mushroom_08012010_120014.csv started...
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:27 >File: mushroom_08012010_120014.csv loaded successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:27 >Insertion of file mushroom_08012011_120015.csv started...
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:28 >File: mushroom_08012011_120015.csv loaded successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:28 >Insertion of file mushroom_08012012_120016.csv started...
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:29 >File: mushroom_08012012_120016.csv loaded successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:29 >Insertion of file mushroom_08012013_120017.csv started...
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:31 >File: mushroom_08012013_120017.csv loaded successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:31 >Insertion of file mushroom_08012014_120018.csv started...
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:32 >File: mushroom_08012014_120018.csv loaded successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:32 >Insertion of file mushroom_08012015_120019.csv started...
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:33 >File: mushroom_08012015_120019.csv loaded successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:33 >Insertion of file mushroom_08012016_120020.csv started...
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:34 >File: mushroom_08012016_120020.csv loaded successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:34 >Insertion of file mushroom_08012017_120021.csv started...
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:36 >File: mushroom_08012017_120021.csv loaded successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:36 >Insertion of file mushroom_08012018_120022.csv started...
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:37 >File: mushroom_08012018_120022.csv loaded successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:37 >Insertion in Table completed!!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:37 >Deleting Good Data Folder!!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:37 >Removing good raw directory
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:41 >company_name/prediction/data/project/Mushroom_classifier/good_raw_data_files directory deleted successfully
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:41 >Good_Data folder deleted!!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:41 >Moving bad files to Archive and deleting Bad_Data folder!!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:29:41 >Archiving of bad prediction file begin.
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:04 >Bad files moved to archive
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:06 >Bad Raw Data Folder Deleted successfully!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:06 >Archiving of bad prediction file done.
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:06 >Bad files moved to archive!! Bad folder Deleted!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:06 >Validation Operation completed!!
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:06 >Extracting csv file from table
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:06 >starting of loading of database:training_database,collection:Good_Raw_Data records into InputFile.csv
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:06 >Good_Raw_data has been loaded into pandas dataframe
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:17 >InputFile.csv created successfully in directorycompany_name/prediction/data/project/Mushroom_classifier/prediction_file_from_db
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:17 >Extraction csv file from table completed.
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:21 >Start of Prediction
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:21 >Entered the get_data method of the Data_Getter class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:25 >Data Load Successful.Exited the get_data method of the Data_Getter class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:25 >Entered the remove_columns method of the Preprocessor class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:25 >Column removal Successful.Exited the remove_columns method of the Preprocessor class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:26 >Entered the is_null_present method of the Preprocessor class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:29 >Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:29 >Entered the impute_missing_values method of the Preprocessor class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:29 >Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:30 >Entered the load_model method of the File_Operation class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:32 >Entered the find_correct_model_file method of the File_Operation class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:33 >Entered the load_model method of the File_Operation class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:34 >Entered the find_correct_model_file method of the File_Operation class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:35 >Entered the load_model method of the File_Operation class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:36 >Entered the find_correct_model_file method of the File_Operation class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:37 >Entered the load_model method of the File_Operation class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:38 >Entered the find_correct_model_file method of the File_Operation class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:39 >Entered the load_model method of the File_Operation class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:41 >Entered the find_correct_model_file method of the File_Operation class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:42 >Entered the load_model method of the File_Operation class
+07a3acc0-7f4d-449a-baff-12ca90a72147: 2021-12-04 14:30:52 >End of Prediction
